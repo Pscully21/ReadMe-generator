@@ -1,8 +1,8 @@
-# Module-9-Readme
+# cool project #1
   
-        ![badge](https://img.shields.io/badge/license-MIT-red)
+        [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  A project aimed to make readme's easier to make and use
+  A project aimed to make readme's easier to make and use 
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -13,16 +13,16 @@
   * [Questions](#questions)
   ## Installation
   To install what is necessary for this project, run the following:
-  Clone this repo and install the inquirer npm
+  clone this repo and install the inquirer npm
   ## Usage
-  It can be used in any project that requires a readme file 
+  It can be used in any project that requires a readme file
   ## License
   This project uses the MIT license.
   ## Contributing
-  There is no need for any new contributions to be made to this project
+  There is no need for further contribution to this project
   ## Tests 
-  
+  N/A
   ## Questions
   [Github Profile](https://github.com/Pscully21/)
-  You can reach me at parker@test.com.
+  You can reach me at test@test.com.
 
